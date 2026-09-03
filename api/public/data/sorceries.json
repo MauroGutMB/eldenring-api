@@ -1696,7 +1696,7 @@
     ]
   },
   {
-    "id": "1a067aa76abd21502a7b454e044e2",
+    "id": "1a067c8c03daa55b556c78f5d3dec",
     "name": "Miriam's Vanishing",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/miriams_vanishing_sorcery_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Sorcery of a preceptor who served the Carian royal family. Used to conceal oneself in a glintstone haze, reappearing after a few seconds have passed. Directional inputs determine where one will reappear. The curator of the study hall was such a master of this sorcery that it now bears her name.",
@@ -1720,7 +1720,7 @@
     ]
   },
   {
-    "id": "1a067aa76abbb3b5b4dd8c73cf24b",
+    "id": "1a067c8c03d01713b1decd32a48e4",
     "name": "Glintblade Trio",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glintblade_trio_2_sorcery_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "An old sorcery of the Carian royal family. Creates a sigil overhead, from which three enemy-seeking glintblades appear after a brief delay. This sorcery can be used while in motion. Charging increases the delay. The prototypical form of sword-phalanx sorceries saw a different subsequent refinement in the realm of shadow.",
@@ -1744,7 +1744,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab25a0eb88f3b0f29fcf",
+    "id": "1a067c8c03d6a775734d451844ce5",
     "name": "Rellana's Twin Moons",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rellanas_twin_moons_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Sorcery of Rellana, the Twin Moon Knight. Associated with a Carian princess. Incarnate overlapping twin moons which strike the ground one after the other, violently shaking the earth with moonlight. In her childhood, she and her elder sister Rennala met these moons. Overlapping, as though nestled against one another.",
@@ -1768,7 +1768,7 @@
     ]
   },
   {
-    "id": "1a067aa76abeced0f4e236d56826f",
+    "id": "1a067c8c03d05fbd7586519519da4",
     "name": "Glintstone Nail",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_nail_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Glintstone sorcery of Count Ymir, High Priest. One of the finger sorceries said to have been discovered in a hallowed ruin. Flings a magic nail that crumbles during flight. Charging increases potency. Count Ymir boasts that this is mere child's play, an echo of a greater truth.",
@@ -1792,7 +1792,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab7f66a4669676113958",
+    "id": "1a067c8c03d76f722b7e69ea79c25",
     "name": "Glintstone Nails",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_nails_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Glintstone sorcery of Count Ymir, High Priest. One of the finger sorceries said to have been discovered in a hallowed ruin. Flings multiple magic nails that crumble during flight. Charging increases potency. Count Ymir boasts that this is mere child's play, an echo of a greater truth.",
@@ -1816,7 +1816,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab4a8922c4f85cdcdc77",
+    "id": "1a067c8c03d081b6aa3725043f94f",
     "name": "Blades of Stone",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blades_of_stone_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Gravity-manipulating sorcery of Commander Gaius. Pulls blade-like clumps of rock from the earth. Charging increases potency. Gaius and Radahn were good rivals in their youth, and this sorcery is a product of their friendly competition.",
@@ -1840,10 +1840,10 @@
     ]
   },
   {
-    "id": "1a067aa76abc77b6678a87ee04ca3",
+    "id": "1a067c8c03db8d2a3d7921720e1a5",
     "name": "Gravitational Missile",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gravitational_missile_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
-    "description": "One of the glintstone sorceries that manipulates gravitational forces. Fires a gravitational projectile that pulls in enemies before finally exploding. Charging increases potency. Said to have originated in the lightless dark far beyondthe home of the fallingstar beasts.",
+    "description": "One of the glintstone sorceries that manipulates gravitational forces. Fires a gravitational projectile that pulls in enemies before finally exploding. Charging increases potency. Said to have originated in the lightless dark far beyond the home of the fallingstar beasts.",
     "type": "Sorceries",
     "cost": 18,
     "slots": 1,
@@ -1864,7 +1864,7 @@
     ]
   },
   {
-    "id": "1a067aa76abd7c3a9aeba37e4a03c",
+    "id": "1a067c8c03da729857f379289e3d8",
     "name": "Mantle of Thorns",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mantle_of_thorns_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Sorcery of those who abandoned the practice of incantations after devout faith rewarded them with only despair. Covers the caster in impenetrable thorns grown from the Scadutree. Once covered, dodge rolls will damage enemies. The image of the misshapen Scadutree is an edict: Spurn all that exists. Wound all that exists. For we have been abandoned.",
@@ -1888,7 +1888,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab0ed824159b05d0066f",
+    "id": "1a067c8c03d5b5e5cd1186b3f6002",
     "name": "Impenetrable Thorns",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/impenetrable_thorns_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Sorcery of those who abandoned the practice of incantations after devout faith rewarded them with only despair. Summons the Scadutree's impenetrable thorns from the ground. This sorcery can be used repeatedly. The image of the twisted Scadutree is an edict: Denounce their ways. Do them harm. For they have abandoned us.",
@@ -1912,7 +1912,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab986e44aa73dd6bf853",
+    "id": "1a067c8c03d7cdca4540cd278c644",
     "name": "Rings of Spectral Light",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rings_of_spectral_light_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Sorcery practiced by the keepers of the spiritgraves, where all death ultimately drifts. Creates rings of spectral light that fire in unison. Charging enhances potency. The rings of light have the same qualities as ghostflame, and deal magic damage while also causing frost buildup.",
@@ -1936,7 +1936,7 @@
     ]
   },
   {
-    "id": "1a067aa76abd1f7fd120eb25972f3",
+    "id": "1a067c8c03d6627887b12d8f045ad",
     "name": "Vortex of Putrescence",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vortex_of_putrescence_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide.png",
     "description": "Sorcery used by the Putrescent Knight. Launches a whirl of putrescent jets that explode shortly after impact and bathe the area in ghostflame. In an age long past, Death was burned by ghostflame. Even the remains of tainted flesh were given equal treatment in death.",
@@ -1960,7 +1960,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab7828ca586d5772db54",
+    "id": "1a067c8c03dd39baa8e3bf392082a",
     "name": "Mass of Putrescence",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mass_of_putrescence.png",
     "description": "Sorcery originating from the putrid liquor of the stone coffins. Flings a great mass of putrescence that explodes shortly after impact, raining ghostflame upon the area. In an age long past, Death was burned by ghostflame. Even the remains of tainted flesh were given equal treatment in death. lob it to the side of them",
@@ -1984,7 +1984,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab1ced73b223e1859623",
+    "id": "1a067c8c03d06ade2897c8253c518",
     "name": "Fleeting Microcosm",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fleeting_microcosm_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A finger sorcery of Count Ymir, High Priest. One of the secret hallowed rites. Conjures an image of a microcosm at a foe's feet that pulses with a single wave before disappearing in a burst. Charging enhances potency. The broken and discarded are fully willing to cling to fleeting simulacra, earning them some modicum of sympathy.",
@@ -2008,7 +2008,7 @@
     ]
   },
   {
-    "id": "1a067aa76ab18d4ef262e68e3e864",
+    "id": "1a067c8c03d7074d364e18194ba38",
     "name": "Cherishing Fingers",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cherishing_fingers_sorceries_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A finger sorcery of Count Ymir, aspiring mother of fingers. Surrounds the caster with a mesh of hefty fingers that wards all manner of projectiles, whether magical or physical in nature, away from the caster. Charging enhances potency. The dear fingers look after their mother, or perhaps that is merely what the mother wishes to believe.",

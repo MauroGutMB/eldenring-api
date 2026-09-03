@@ -440,7 +440,7 @@
     "role": "NPC"
   },
   {
-    "id": "1a067aa76b4a0d99e79fdde3283c5",
+    "id": "1a067c8c0469e22b6e107b2322313",
     "name": "Sir Ansbach",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ansbach(1).png",
     "quote": null,
@@ -448,7 +448,7 @@
     "role": "Pureblood Knight Captain (former), NPC Quest Related"
   },
   {
-    "id": "1a067aa76b43e7783de0a55cdf8c2",
+    "id": "1a067c8c046f127e5c8b00bfd5b75",
     "name": "Count Ymir, High Priest",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ymir.png",
     "quote": null,
@@ -456,7 +456,7 @@
     "role": "Merchant"
   },
   {
-    "id": "1a067aa76b4324c0ab5ea7b67b82b",
+    "id": "1a067c8c046dee9d4a04c725449f9",
     "name": "Dragon Communion Priestess",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/priestess.png",
     "quote": null,
@@ -464,23 +464,23 @@
     "role": "Questline Related"
   },
   {
-    "id": "1a067aa76b4c1dd94582b6b96449b",
+    "id": "1a067c8c0468e9041953b74be88ec",
     "name": "Dryleaf Dane",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dryleaf.png",
     "quote": null,
-    "location": "Moorth RuinsEnir-Ilim",
+    "location": "Moorth Ruins, Enir-Ilim",
     "role": "Mini-Boss"
   },
   {
-    "id": "1a067aa76b4be36881932e6747f10",
+    "id": "1a067c8c046babae7b1f2c1fb0c39",
     "name": "Fire Knight Queelign",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/queelign.png",
     "quote": null,
-    "location": "NPC Invader:Belurat Tower SettlementChurch of CrusadePhysical Body:Church District, Shadow Keep",
+    "location": "NPC Invader: Belurat Tower Settlement, Church of Crusade, Physical Body: Church District, Shadow Keep",
     "role": "NPC Invader, NPC"
   },
   {
-    "id": "1a067aa76b43559be7986f89da83a",
+    "id": "1a067c8c046c699366c5d8b6a71b1",
     "name": "Redmane Freyja",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/freyja.png",
     "quote": null,
@@ -488,7 +488,7 @@
     "role": "Cooperator, Questline Related"
   },
   {
-    "id": "1a067aa76b4fabf3fec047c085f5b",
+    "id": "1a067c8c046e6a9baac35dbdcd92d",
     "name": "Hornsent",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hornsent.png",
     "quote": null,
@@ -496,7 +496,7 @@
     "role": "Amicable NPC, Invader NPC"
   },
   {
-    "id": "1a067aa76b44ed8c588df31379ef7",
+    "id": "1a067c8c04609028748d6c5d1814d",
     "name": "Hornsent Grandam",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hornsent_grandam_npcs_sote_wiki_guide300px1.jpg",
     "quote": null,
@@ -504,15 +504,15 @@
     "role": "Hornsent Survivor"
   },
   {
-    "id": "1a067aa76b453a3fa1fb6727c12a8",
+    "id": "1a067c8c0469ff647d3a6ebc98437",
     "name": "Igon",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/igon.png",
     "quote": null,
-    "location": "Gravesite PlainJagged Peak",
+    "location": "Gravesite Plain, Jagged Peak",
     "role": "Drake Warrior, NPC Quest Related"
   },
   {
-    "id": "1a067aa76b4302c381f5eb03596f1",
+    "id": "1a067c8c0469ac24059f1732bff7c",
     "name": "Jolan",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/jolan_(1).png",
     "quote": null,
@@ -520,7 +520,7 @@
     "role": "Servant of Count Ymir"
   },
   {
-    "id": "1a067aa76b4bbd902eaddbf3f0543",
+    "id": "1a067c8c0462893524c981fc11d1d",
     "name": "Miquella",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/screenshot_2024-07-10_210339.png",
     "quote": null,
@@ -528,7 +528,7 @@
     "role": null
   },
   {
-    "id": "1a067aa76b43d7c11b214cc9eaccb",
+    "id": "1a067c8c0469c90ff005415bf0877",
     "name": "Moore",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/moore.png",
     "quote": null,
@@ -536,7 +536,7 @@
     "role": "Merchant"
   },
   {
-    "id": "1a067aa76b4db903e59c4ec1bef47",
+    "id": "1a067c8c046a1075c0058670e49c5",
     "name": "Needle Knight Leda",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden_ring_leda.jpg",
     "quote": null,
@@ -544,7 +544,7 @@
     "role": "Miquella's Followers Leader"
   },
   {
-    "id": "1a067aa76b44820f5ec4d035335a4",
+    "id": "1a067c8c046fdda763f1d4e17d476",
     "name": "Queen Marika the Eternal",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/queen-marika-lore-npc-elden-ring-wiki-300px.jpeg",
     "quote": null,
@@ -552,7 +552,7 @@
     "role": "Ruler of The Lands Between"
   },
   {
-    "id": "1a067aa76b4eea3ad9c4da2040502",
+    "id": "1a067c8c04648b17037b6e8f175a0",
     "name": "St. Trina",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden-ring-st-trina-jpeg.jpg",
     "quote": null,
@@ -560,7 +560,7 @@
     "role": "NPC Quest Related"
   },
   {
-    "id": "1a067aa76b49eaf3217b94dcc5670",
+    "id": "1a067c8c0462bb47d3f054f11c675",
     "name": "Thiollier",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/thiollier.png",
     "quote": null,

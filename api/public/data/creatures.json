@@ -1296,253 +1296,348 @@
     ]
   },
   {
-    "id": "1a067aa76b2c1ce7e0954d2f10325",
+    "id": "1a067c8c04435a237d1c4bd646245",
     "name": "Bigmouth Imp",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bigmouth-imp-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Bigmouth Imps infest many of the catacombs in the Lands of Shadow. These creatures are adept at causing disturbances, moving nimbly like pests, and lurking around corners, ready to attack any trespassers who dare to enter their catacombs.",
-    "location": "['Darklight Catacombs', 'Fog Rift Catacombs', 'Scorpion River Catacombs']",
+    "location": "Darklight Catacombs, Fog Rift Catacombs, Scorpion River Catacombs",
     "drops": [
-      "['Great Ghost Glovewort', 'Grave Glovewort [6]', 'Grave Glovewort [7]', 'Grave Glovewort [8]']"
+      "Great Ghost Glovewort",
+      "Grave Glovewort [6]",
+      "Grave Glovewort [7]",
+      "Grave Glovewort [8]"
     ]
   },
   {
-    "id": "1a067aa76b2188c71ab5cd7ec9d7a",
+    "id": "1a067c8c044c4490091af85058ad6",
     "name": "Jar Innards",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/jar-innards-elden-ring-wiki-600px.jpg",
     "description": "For pity's sake, your place is in the jar. Nigh-sainthood itself awaits you within. For shamans like you, this is your lot. Life were you accorded for this alone.\" - Phantom in Bonny Village",
-    "location": "['Belurat Gaol', 'Bonny Gaol', \"Lamenter's Gaol\"]",
+    "location": "Belurat Gaol, Bonny Gaol, Lamenter's Gaol",
     "drops": [
-      "['???', 'Human Bone Shard', 'Innard Meat']"
+      "???",
+      "Human Bone Shard",
+      "Innard Meat"
     ]
   },
   {
-    "id": "1a067aa76b23df4bd1bc492a40efd",
+    "id": "1a067c8c044d50f64423546906cea",
     "name": "Curseblade",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/curseblade-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These entities wield the Curseblade's Cirque in both hands, a backhand blade with wave-like cutting edges, sharpened into points that incite blood loss. Long ago, this was employed by the ascetics who strove to become tutelary deities as a ritualistic object in their self-flagellating dances. Their movements are almost dance-like, blending both elegance and lethality as they deliver their attacks. Their flashy combat style will leave their opponents disoriented and overwhelmed.",
-    "location": "['Belurat Tower Settlement', 'Enir-Ilim', 'Ancient Ruins of Rauh']",
+    "location": "Belurat Tower Settlement, Enir-Ilim, Ancient Ruins of Rauh",
     "drops": [
-      "[\"Ascetic's Set\", \"Curseblade's Cirque\", 'Curseblade Mask']"
+      "Ascetic's Set",
+      "Curseblade's Cirque",
+      "Curseblade Mask"
     ]
   },
   {
-    "id": "1a067aa76b2989e0623eddef015f2",
+    "id": "1a067c8c0440169605a5b52ad3335",
     "name": "Golem Smith",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golem-smith-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These imposing constructs can be seen roaming around the ancient forges. They carry pots of lava on their heads, which they can hurl as projectiles. Their ability to withstand most attacks makes them very difficult to deal with. These beings also have a weakness, a red gem embedded in their backs can be seen and striking this weak spot can inflict critical damage.",
-    "location": "['Ruined Forge Lava Intake', 'Ruined Forge of Starfall Past', \"Taylew's Ruined Forge\"]",
+    "location": "Ruined Forge Lava Intake, Ruined Forge of Starfall Past, Taylew's Ruined Forge",
     "drops": [
-      "['???', 'Smithing Stone [5]', 'Smithing Stone [6]', 'Smithing Stone [7]', 'Somber Smithing Stone [6]', 'Somber Smithing Stone [7]', 'Somber Smithing Stone [8]']"
+      "???",
+      "Smithing Stone [5]",
+      "Smithing Stone [6]",
+      "Smithing Stone [7]",
+      "Somber Smithing Stone [6]",
+      "Somber Smithing Stone [7]",
+      "Somber Smithing Stone [8]"
     ]
   },
   {
-    "id": "1a067aa76b218f16ab4fb50637d11",
+    "id": "1a067c8c044898ac81479e67d223c",
     "name": "Gravebird",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/gravebird-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Gravebirds are imposing ancient golems crafted to resemble their kin, the Deathbirds. These creatures soar through the air with stone wings and spout ghostflame. According to legend, Gravebirds were created to be kindred spirits to the Deathbirds, sharing a mysterious and sinister origin. Their primary purpose is to guard spiritgraves, the sacred resting places built to collect and contain the souls of all who have met their end.",
-    "location": "['Common enemy that can be found in the overworld.']",
+    "location": "Common enemy that can be found in the overworld.",
     "drops": [
-      "['Smithing Stone [3]', 'Smithing Stone [4]', 'Smithing Stone [5]']"
+      "Smithing Stone [3]",
+      "Smithing Stone [4]",
+      "Smithing Stone [5]"
     ]
   },
   {
-    "id": "1a067aa76b254cb1dec303f338290",
+    "id": "1a067c8c044a444559be39b34f453",
     "name": "Shadowpot",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shadowpot-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Elusive shadow figures that carry pots over their heads. When confronted, they tend to flee. They are worth the effort to catch as defeating them often yields valuable materials or items.",
-    "location": "['Temple Town Ruins', 'Ancient Ruins of Rauh', 'Gravesite Plain']",
+    "location": "Temple Town Ruins, Ancient Ruins of Rauh, Gravesite Plain",
     "drops": [
-      "['Scadutree Fragment']"
+      "Scadutree Fragment"
     ]
   },
   {
-    "id": "1a067aa76b222dbf0530541589454",
+    "id": "1a067c8c044fb7cf919f3aa2e340a",
     "name": "Shadow Undead",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shadow-undead-elden-ring-wiki-600px.jpg",
     "description": "These undead beings have their lost souls cursed to roam eternally, with their minds consumed by the curse, retaining only a fragment of their former selves. Some retain faint echoes of their past lives, occasionally displaying fleeting moments of hesitation or sorrow.",
-    "location": "['Commonly found across all locations']",
+    "location": "Commonly found across all locations",
     "drops": [
-      "['To be added']"
+      "To be added"
     ]
   },
   {
-    "id": "1a067aa76b28bd395d12b5e2e91f3",
+    "id": "1a067c8c0444c352e2f8b21d3642f",
     "name": "Spider Scorpion",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spider-scorpion-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Spider Scorpions blend the traits of both spiders and scorpions. These monstrous beings attack with powerful pincers and a venomous tail, delivering lethal blows to those who dare approach. Originally, this breed of scorpion was native to the realm of shadow and was significantly smaller in size. However, the recent emergence of these gigantic Spider Scorpions has been traced back to the Church of the Bud.",
-    "location": "['Belurat Tower Settlement', 'Ancient Ruins of Rauh']",
+    "location": "Belurat Tower Settlement, Ancient Ruins of Rauh",
     "drops": [
-      "['???', 'Scorpion Liver', 'Somber Smithing Stone [1]', 'Somber Smithing Stone [2]', 'Somber Smithing Stone [3]', 'Somber Smithing Stone [4]', 'Somber Smithing Stone [5]', 'Somber Smithing Stone [6]']"
+      "???",
+      "Scorpion Liver",
+      "Somber Smithing Stone [1]",
+      "Somber Smithing Stone [2]",
+      "Somber Smithing Stone [3]",
+      "Somber Smithing Stone [4]",
+      "Somber Smithing Stone [5]",
+      "Somber Smithing Stone [6]"
     ]
   },
   {
-    "id": "1a067aa76b2e351afbd2a4ac75f2b",
+    "id": "1a067c8c0441e2485f884285f3da4",
     "name": "Man-Fly",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/man-fly-enemy-sote-elden-ring-wiki.jpg",
     "description": "These creatures were originally humans who suffered from a metamorphosing illness, transforming them into human-insect hybrids. The disease ravaged their peaceful villages, killing most of the population. The few who survived were turned into man-flies. The illness also appears to make the infected aggressive, causing them to attack on sight.",
-    "location": "['Belurat Tower Settlement', 'Abandoned Ailing Village', 'Village of Flies']",
+    "location": "Belurat Tower Settlement, Abandoned Ailing Village, Village of Flies",
     "drops": [
-      "['To be added']"
+      "To be added"
     ]
   },
   {
-    "id": "1a067aa76b20a09476ca822a860bb",
+    "id": "1a067c8c0444337590db9fbe94bce",
     "name": "Horned Warrior",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/horned-warrior-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "A fearsome adversary, easily recognizable by their distinctive appearance. Their helms feature a crown of sturdy tangled horns, allowing them to invoke divinity. Clad in plated armor and adorned with ochre fabric. These warriors are not only resilient, but also agile, as they combine brute strength with swift and deadly precision.",
-    "location": "[\"Midra's Manse\", 'Belurat Tower Settlement', 'Enir-Ilim', 'Temple Town Ruins']",
+    "location": "Midra's Manse, Belurat Tower Settlement, Enir-Ilim, Temple Town Ruins",
     "drops": [
-      "[\"Horned Warrior's Sword\", \"Horned Warrior's Greatsword\", 'Horned Warrior Helm', 'Horned Warrior Armor', 'Horned Warrior Gauntlets', 'Horned Warrior Greaves', 'Somber Smithing Stone [7]', 'Somber Smithing Stone [8]', 'Somber Smithing Stone [9]']"
+      "Horned Warrior's Sword",
+      "Horned Warrior's Greatsword",
+      "Horned Warrior Helm",
+      "Horned Warrior Armor",
+      "Horned Warrior Gauntlets",
+      "Horned Warrior Greaves",
+      "Somber Smithing Stone [7]",
+      "Somber Smithing Stone [8]",
+      "Somber Smithing Stone [9]"
     ]
   },
   {
-    "id": "1a067aa76b2672d6a4e6e7617f5a6",
+    "id": "1a067c8c044be26f7161e1499cc75",
     "name": "Fire Knight",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fire-knight-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Adorned in a pointed helm and armor featuring a red cape and twin golden snakes around the neck that enhances Messmer's flame incantations, each knight hails from a renowned family of the Erdtree's upper echelons. However, they were shunned and exiled from their homes after swearing loyalty to Messmer as their master.",
-    "location": "['Shadow Keep']",
+    "location": "Shadow Keep",
     "drops": [
-      "[\"Fire Knight's Greatsword\", \"Fire Knight's Shortsword\", 'Fire Knight Set', 'Smithing Stone [6]', 'Smithing Stone [7]', 'Smithing Stone [8]']"
+      "Fire Knight's Greatsword",
+      "Fire Knight's Shortsword",
+      "Fire Knight Set",
+      "Smithing Stone [6]",
+      "Smithing Stone [7]",
+      "Smithing Stone [8]"
     ]
   },
   {
-    "id": "1a067aa76b29da9849db2477412ff",
+    "id": "1a067c8c04471cf896b7a7dcda886",
     "name": "Bloodfiend",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodfiend-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These creatures have towering figures, but their bodies are grotesquely transformed. Despite their terrifying appearance, they exhibit a strange behavior. They patrol their designated areas as if they're driven by a forgotten purpose.",
-    "location": "['Prospect Town', 'Rivermouth Cave', 'Stone Coffin Fissure', 'Ellac River Cave', 'East of Castle Ensis', 'Shadow Keep Exit']",
+    "location": "Prospect Town, Rivermouth Cave, Stone Coffin Fissure, Ellac River Cave, East of Castle Ensis, Shadow Keep Exit",
     "drops": [
-      "['Sacred Bloody Flesh', 'String', \"Bloodfiend's Fork\", 'Nectarblood Burgeon', \"Bloodfiend's Arm\", \"Bloodfiend's Sacred Spear\"]"
+      "Sacred Bloody Flesh",
+      "String",
+      "Bloodfiend's Fork",
+      "Nectarblood Burgeon",
+      "Bloodfiend's Arm",
+      "Bloodfiend's Sacred Spear"
     ]
   },
   {
-    "id": "1a067aa76b2f0d24b2ea54868ba48",
+    "id": "1a067c8c0442920ed481b1faad0c7",
     "name": "Hippopotamus",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hippopotamus-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These formidable beasts are reminiscent of the majestic Golden Hippopotamus, but lack the divine erdtree incantations that their golden counterparts possess. Instead, they rely solely on brute strength and aggressive nature to overpower their opponents.",
-    "location": "[\"Charo's Hidden Grave\", \"Recluses' River\", 'Ancient Ruins of Rauh']",
+    "location": "Charo's Hidden Grave, Recluses' River, Ancient Ruins of Rauh",
     "drops": [
-      "['Scadutree Fragment']"
+      "Scadutree Fragment"
     ]
   },
   {
-    "id": "1a067aa76b2cc81f216da95befe4c",
+    "id": "1a067c8c04402dca6f92f193a4209",
     "name": "Blue Worm",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blue-worm-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These creatures can easily be seen, with their sapphire-hued bodies protruding from the ground. They are harmless when left undisturbed.",
-    "location": "['Cerulean Coast', \"Charo's Hidden Grave\", 'Abyssal Woods', 'Scadu Altus', 'Fort of Reprimand']",
+    "location": "Cerulean Coast, Charo's Hidden Grave, Abyssal Woods, Scadu Altus, Fort of Reprimand",
     "drops": [
-      "['Grave Glovewort [1]', 'Grave Glovewort [2]', 'Grave Glovewort [3]', 'Grave Glovewort [7]', 'Grave Glovewort [8]', 'Grave Glovewort [9]', 'Ghost Glovewort [1]', 'Ghost Glovewort [2]', 'Ghost Glovewort [3]', 'Ghost Glovewort [7]', 'Ghost Glovewort [8]', 'Ghost Glovewort [9]']"
+      "Grave Glovewort [1]",
+      "Grave Glovewort [2]",
+      "Grave Glovewort [3]",
+      "Grave Glovewort [7]",
+      "Grave Glovewort [8]",
+      "Grave Glovewort [9]",
+      "Ghost Glovewort [1]",
+      "Ghost Glovewort [2]",
+      "Ghost Glovewort [3]",
+      "Ghost Glovewort [7]",
+      "Ghost Glovewort [8]",
+      "Ghost Glovewort [9]"
     ]
   },
   {
-    "id": "1a067aa76b258cccf0170988f4543",
+    "id": "1a067c8c0443bbd4011a82583b9d7",
     "name": "Giant Beast Skeleton",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/giant-beast-skeleton-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These skeletal guardians are relentless in their patrols, being at the ready for intruders who dare trespass their domains.",
-    "location": "[\"Dragon's Pit\", \"Charo's Hidden Grave\", 'Castle Watering Hole Northeast', 'North Ruins of Unte', 'Above Shadow Keep East Tunnel']",
+    "location": "Dragon's Pit, Charo's Hidden Grave, Castle Watering Hole Northeast, North Ruins of Unte, Above Shadow Keep East Tunnel",
     "drops": [
-      "['Human Bone Shard', 'Bolt', 'Grave Scythe', 'Sun Realm Shield', \"Bandit's Curved Sword\"]"
+      "Human Bone Shard",
+      "Bolt",
+      "Grave Scythe",
+      "Sun Realm Shield",
+      "Bandit's Curved Sword"
     ]
   },
   {
-    "id": "1a067aa76b2a2ab5b764ea94274f3",
+    "id": "1a067c8c044cac0fe255beccd1555",
     "name": "Living Magma",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/living-magma-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These blazing entities embody the raw, untamed power of fire itself.",
-    "location": "['Ruined Forge Lava Intake', 'Ruined Forge of Starfall Past', \"Taylew's Ruined Forge\"]",
+    "location": "Ruined Forge Lava Intake, Ruined Forge of Starfall Past, Taylew's Ruined Forge",
     "drops": [
-      "['Gas Stone', 'Smithing Stone [1]', 'Smithing Stone [2]', 'Smithing Stone [3]', 'Somber Smithing Stone [1]', 'Somber Smithing Stone [2]', 'Somber Smithing Stone [3]']"
+      "Gas Stone",
+      "Smithing Stone [1]",
+      "Smithing Stone [2]",
+      "Smithing Stone [3]",
+      "Somber Smithing Stone [1]",
+      "Somber Smithing Stone [2]",
+      "Somber Smithing Stone [3]"
     ]
   },
   {
-    "id": "1a067aa76b2046743cab9af87de23",
+    "id": "1a067c8c0442673ec48ffd1974241",
     "name": "Inquisitor",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/inquisitor-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These mages stand vigilant within the dimly lit catacombs of the Lands of Shadow.",
-    "location": "[\"Midra's Manse\", 'Darklight Catacombs', 'Fog Rift Catacombs', 'Belurat Tower Settlement', 'Enir-Ilim', 'Scadu Altus', 'Abyssal Woods']",
+    "location": "Midra's Manse, Darklight Catacombs, Fog Rift Catacombs, Belurat Tower Settlement, Enir-Ilim, Scadu Altus, Abyssal Woods",
     "drops": [
-      "['Golden Horn Tender']"
+      "Golden Horn Tender"
     ]
   },
   {
-    "id": "1a067aa76b24a3393c8880f307b46",
+    "id": "1a067c8c04495be63af7efe0dc1af",
     "name": "Divine Bird Warrior",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/divine-bird-warrior-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "They are the very first of all horned warriors, donning helms of entwined horns and divine bird masks that enable the wearer to invoke divinity. Their armor, greaves, and gauntlets are crafted from golden metal. It is said that the golden-hued divine birds are known to be cruel, shunning human companionship. Few have ever succeeded in invoking their divine power.",
-    "location": "['Enir-Ilim', 'Ancient Ruins of Rauh']",
+    "location": "Enir-Ilim, Ancient Ruins of Rauh",
     "drops": [
-      "['To be added']"
+      "To be added"
     ]
   },
   {
-    "id": "1a067aa76b2417a4219f3323a8a11",
+    "id": "1a067c8c044dd49cf9609c433c687",
     "name": "Messmer Soldier",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/messmer-soldier-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Loyal soldiers who serve Messmer the Impaler. These warriors don iron helms with visors. Their foreheads bear a Scadutree design etched in gold. They are clad in rusted chainmail covered by a ragged cloak, and their chestpieces also feature the Scadutree motif, also engraved with gold.",
-    "location": "['Scorpion River Catacombs', 'Castle Ensis', 'Church of Consolation', 'Ellac Greatbridge', 'Fog Rift Fort', 'Fog Rift Catacombs', 'Shadow Keep']",
+    "location": "Scorpion River Catacombs, Castle Ensis, Church of Consolation, Ellac Greatbridge, Fog Rift Fort, Fog Rift Catacombs, Shadow Keep",
     "drops": [
-      "['To be added']"
+      "To be added"
     ]
   },
   {
-    "id": "1a067aa76b26e6abcdad14426fedb",
+    "id": "1a067c8c0440ff0a993dceb2d665a",
     "name": "Shadow Militiamen",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shadow-militiamen-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These small and agile warriors found their place amid the darkened ruins and cursed Lands of Shadow.",
-    "location": "['Shadow Keep', 'Gravesite Plain', 'Abyssal Woods', 'Scadu Altus']",
+    "location": "Shadow Keep, Gravesite Plain, Abyssal Woods, Scadu Altus",
     "drops": [
-      "['???', 'Vulgar Militia Saw', 'Vulgar Militia Shotel', 'Shadow Militiaman Helm', 'Shadow Militiaman Armor', 'Shadow Militiaman Gauntlets', 'Shadow Militiaman Greaves', 'Kukri']"
+      "???",
+      "Vulgar Militia Saw",
+      "Vulgar Militia Shotel",
+      "Shadow Militiaman Helm",
+      "Shadow Militiaman Armor",
+      "Shadow Militiaman Gauntlets",
+      "Shadow Militiaman Greaves",
+      "Kukri"
     ]
   },
   {
-    "id": "1a067aa76b2e87728a6e31a730f5d",
+    "id": "1a067c8c0443a54d25afa442c5d30",
     "name": "Messmer Foot Soldier",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/messmerr-foot-soldier-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Base level soldiers, devoted followers of Messmer the Impaler.",
-    "location": "['Belurat Gaol', 'Bonny Gaol', \"Lamenter's Gaol\", 'Castle Ensis', 'Fort of Reprimand', 'Shadow Keep']",
+    "location": "Belurat Gaol, Bonny Gaol, Lamenter's Gaol, Castle Ensis, Fort of Reprimand, Shadow Keep",
     "drops": [
-      "['???', 'Dagger', 'Short Sword', \"Soldier's Crossbow\", 'Short Spear', 'Common Soldier Helm', 'Common Soldier Cloth Armor', 'Common Soldier Gauntlets', 'Common Solider Greaves', 'Bolt', 'Furnace Visage']"
+      "???",
+      "Dagger",
+      "Short Sword",
+      "Soldier's Crossbow",
+      "Short Spear",
+      "Common Soldier Helm",
+      "Common Soldier Cloth Armor",
+      "Common Soldier Gauntlets",
+      "Common Solider Greaves",
+      "Bolt",
+      "Furnace Visage"
     ]
   },
   {
-    "id": "1a067aa76b2d88a3f7b5838d8e803",
+    "id": "1a067c8c044f7700f3ec11e0f58f3",
     "name": "Horned Shaman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/horned-shaman-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These shamans remain stationary, cloaked in golden robes and giant horns protruding from their heads, with long white hair cascading down their backs. Their gaze spans great distances, ensuring that no one can approach unnoticed. They strike from afar, unleashing powerful spells upon any who dare intrude on the sacred grounds of Enir-Ilim.",
-    "location": "['Enir-Ilim']",
+    "location": "Enir-Ilim",
     "drops": [
-      "['Somber Smithing Stone [7]', 'Somber Smithing Stone [8]', 'Somber Smithing Stone [9]']"
+      "Somber Smithing Stone [7]",
+      "Somber Smithing Stone [8]",
+      "Somber Smithing Stone [9]"
     ]
   },
   {
-    "id": "1a067aa76b27c28713ab5b14abeac",
+    "id": "1a067c8c044f99b8bfea00f01394f",
     "name": "Demi-Human Swordmaster",
     "image": null,
     "description": "These small but formidable creatures are adept swordsmen, moving with nimble agility and striking their opponents with speed and precision. They can swiftly approach their opponents from behind to catch them off guard.",
-    "location": "['Belurat Gaol', 'Cerulean Coast', \"Charo's Hidden Grave\"]",
+    "location": "Belurat Gaol, Cerulean Coast, Charo's Hidden Grave",
     "drops": [
-      "['To be added']"
+      "To be added"
     ]
   },
   {
-    "id": "1a067aa76b28644184f9261adb609",
+    "id": "1a067c8c044102c3a5144b3db9502",
     "name": "Putrescence Sorcerer",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/inquisitor2-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "These malevolent mages cloaked in robes that reek of decay stand silently within their posts, ready to cast death sorceries upon intruders.",
-    "location": "['Fog Rift Catacombs', 'Scorpion River Catacombs', 'Darklight Catacombs']",
+    "location": "Fog Rift Catacombs, Scorpion River Catacombs, Darklight Catacombs",
     "drops": [
-      "['To be added']"
+      "To be added"
     ]
   },
   {
-    "id": "1a067aa76b22b96baf39fda4f98fd",
+    "id": "1a067c8c044ebd44b14b28d24a95b",
     "name": "Shadow Commoner",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shadow-commoner-enemy-sote-elden-ring-wiki-guide.jpg",
     "description": "Haunting figures found throughout the Lands of Shadow. Unlike their aggressive counterparts, these beings are often seen in a state of series stillness, either kneeling in silent prayer or just standing around in corners, lost in their own thoughts.",
-    "location": "['Commonly found across all locations.']",
+    "location": "Commonly found across all locations.",
     "drops": [
-      "['???', 'Smithing Stone [2]', 'Smithing Stone [3]', 'Smithing Stone [4]', 'Ember of Messmer', 'Beast Horn', 'Rada Fruit', 'Redflesh Mushroom', 'Whiteflesh Mushroom', 'Knot Resin', 'Blessed Bone Shard', 'Deep-purple Lily', 'Winter-Lantern Fly', 'Silver Horn Tender', 'Surging Frenzied Flame', 'Black Pyrefly']"
+      "???",
+      "Smithing Stone [2]",
+      "Smithing Stone [3]",
+      "Smithing Stone [4]",
+      "Ember of Messmer",
+      "Beast Horn",
+      "Rada Fruit",
+      "Redflesh Mushroom",
+      "Whiteflesh Mushroom",
+      "Knot Resin",
+      "Blessed Bone Shard",
+      "Deep-purple Lily",
+      "Winter-Lantern Fly",
+      "Silver Horn Tender",
+      "Surging Frenzied Flame",
+      "Black Pyrefly"
     ]
   }
 ]

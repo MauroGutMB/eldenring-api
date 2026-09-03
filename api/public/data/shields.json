@@ -5054,10 +5054,10 @@
     "weight": 10
   },
   {
-    "id": "1a067aa765fe0b19f599bc27c492f",
+    "id": "1a067c8bfe8e6ff874cf55aa69fdc",
     "name": "Dueling Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dueling_shield_thrusting_shields_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
-    "description": "A \"thrusting shield,\" or combined weapon and shield. Enables the wielder to attack and guard simultaneously. An armament once used in ritual combat performed to honor the Erdtreea custom that had somehow remained within the realm of shadow.",
+    "description": "A \"thrusting shield,\" or combined weapon and shield. Enables the wielder to attack and guard simultaneously. An armament once used in ritual combat performed to honor the Erdtree—a custom that had somehow remained within the realm of shadow.",
     "attack": [
       {
         "name": "Phy",
@@ -5134,10 +5134,10 @@
     "weight": 9
   },
   {
-    "id": "1a067aa765fa8829ca8d0e4cfbb74",
+    "id": "1a067c8bfe839b2af8b7f5cd476f1",
     "name": "Carian Thrusting Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_thrusting_shield_thrusting_shields_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
-    "description": "Silver thrusting shield embedded with glintstones. Enables the wielder to attack and guard simultaneously. Once wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combata demonstration of fidelity to the Erdtree.",
+    "description": "Silver thrusting shield embedded with glintstones. Enables the wielder to attack and guard simultaneously. Once wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat—a demonstration of fidelity to the Erdtree.",
     "attack": [
       {
         "name": "Phy",
@@ -5222,7 +5222,7 @@
     "weight": 10.5
   },
   {
-    "id": "1a067aa765f4b62a8c661ab685851",
+    "id": "1a067c8bfe8390598ad766ba4df81",
     "name": "Smithscript Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/smithscript_shield_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Roundshield engraved with a smithscript. A throwing weapon created through the smithing arts. Can be thrown by performing the armament's Skill.",
@@ -5318,7 +5318,7 @@
     "weight": 2.5
   },
   {
-    "id": "1a067aa765f94792fbb12e5596e52",
+    "id": "1a067c8bfe85f9e2bce594c5f46b0",
     "name": "Shield of Night",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shield_of_night_unique_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A shield awarded to Swordhands of Night, cast in a bottomless black from which no light can escape. The outer surface is only semicorporeal, providing reliable defense against attacks that are not physical in nature.",
@@ -5394,7 +5394,7 @@
     "weight": 2
   },
   {
-    "id": "1a067aa765f59f82bcc38dd9304bf",
+    "id": "1a067c8bfe8f1405ef0c29693e7e9",
     "name": "Golden Lion Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_lion_shield_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Shield made to resemble a fierce golden lion with a luxuriant mane. Awarded to especially valorous members of Radahn's personal guard on the occasion of its formation.",
@@ -5466,7 +5466,7 @@
     "weight": 5.5
   },
   {
-    "id": "1a067aa765fd72323d09feb9cd563",
+    "id": "1a067c8bfe8d55e7cdb85889536fa",
     "name": "Serpent Crest Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/serpent_crest_shield_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire. Said to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika.",
@@ -5538,7 +5538,7 @@
     "weight": 6
   },
   {
-    "id": "1a067aa765f59fe4ebf11f8532fca",
+    "id": "1a067c8bfe819385fa07367d28ee1",
     "name": "Wolf Crest Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/wolf_crest_shield_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries. The wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in.",
@@ -5610,7 +5610,7 @@
     "weight": 6
   },
   {
-    "id": "1a067aa765fb199f9e4cdc329b02c",
+    "id": "1a067c8bfe8aeb09259abf3a90620",
     "name": "Messmer Soldier Shield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/messmer_soldier_shield_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler. The largest of all metal shields in their class.",
@@ -5682,7 +5682,7 @@
     "weight": 5
   },
   {
-    "id": "1a067aa765fb2ea701aa3280d8e8b",
+    "id": "1a067c8bfe8f3de8336a2cb8a0770",
     "name": "Verdigris Greatshield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/verdigris_greatshield_greatshields_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Greatshield made of the unusual metal known as verdigris. Boasts greater guard capacity than damage negation. To the extent that the shield will continue to protect its target even if its bearer should die.",
@@ -5754,7 +5754,7 @@
     "weight": 28
   },
   {
-    "id": "1a067aa765f02bb8421570ef8bb87",
+    "id": "1a067c8bfe88651cb13f3a233c253",
     "name": "Black Steel Greatshield",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_steel_greatshield_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold. Symbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose.",

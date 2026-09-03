@@ -609,273 +609,182 @@
     "effect": "Changes demeanour of wearer's actions"
   },
   {
-    "id": "1a067aa76a4caa97787405820e1a4",
-    "name": "Crimson Amber Medallion +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson_amber_medallion_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "A medallion with crimson amber inlaid. Boosts maximum HP. The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord. A primordial life energy resides inside.",
-    "effect": "Raises maximum HP by 10%"
-  },
-  {
-    "id": "1a067aa76a4773489390f3df2da26",
-    "name": "Cerulean Amber Medallion +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cerulean_amber_medallion_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "A medallion with cerulean amber inlaid.Boosts maximum FP. The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord. A primordial life energy resides inside.",
-    "effect": "Raises maximum FP by 12"
-  },
-  {
-    "id": "1a067aa76a4ff5f72da1cf23c705e",
-    "name": "Viridian Amber Medallion +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/viridian_amber_medallion_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "A medallion with viridian amber inlaid. Boosts maximum stamina. The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord. A primordial life energy resides inside.",
-    "effect": "Raises maximum Stamina by 17%"
-  },
-  {
-    "id": "1a067aa76a460594a23fca3f0931e",
+    "id": "1a067c8c0359ad4e36ddb2012fc54",
     "name": "Two-Headed Turtle Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/two-headed_turtle_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman in the shape of a two-headed green turtle. Greatly raises stamina recovery speed. Turtles are known as a nutritious ingredient, symbolic of inexhaustible power. Two-headed turtles are a favorite subject in the land of the tower, due to the spiral shape of their intertwined necks.",
     "effect": "Greatly raises stamina recovery speed"
   },
   {
-    "id": "1a067aa76a455c9794ff3d42b43f9",
-    "name": "Stalwart Horn Charm +2 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/stalwart_horn_charm_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "An accoutrement worn by the ancestral followers. Raises robustness. (Robustness governs resistance to blood loss and frost.) Said to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
-    "effect": "Raises Robustness by 180"
-  },
-  {
-    "id": "1a067aa76a47f48ff4b6a537146d1",
-    "name": "Immunizing Horn Charm +2 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/immunizing_horn_charm_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "An accoutrement worn by the ancestral followers.Raises immunity.(Immunity governs resistance to poison and rot.) Said to be a budding horn. The ancestral followers believed that the horns of a long-lived beast continue to bud like antlers , over and over again, until the beast one day becomes an ancestral spirit.",
-    "effect": "Raises Immunity by 180"
-  },
-  {
-    "id": "1a067aa76a449f11f09d9b9c44d8d",
-    "name": "Clarifying Horn Charm +2 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/clarifying_horn_charm_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "An accoutrement worn by the ancestral followers.Raises focus.(Focus governs resistance to sleep and madness.) Said to be a budding horn. The ancestral followers believed that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
-    "effect": "Raises Focus by 180"
-  },
-  {
-    "id": "1a067aa76a4d1aa73ea2364fc6329",
-    "name": "Mottled Necklace +2 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/mottled_necklace_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "A vividly-colored accoutrement precious to the ancestral followers. Raises immunity, robustness, and focus. Said to be a budding horn. The ancestral followers believed that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
-    "effect": "Raises Immunity, Robustness, and Focus by 100"
-  },
-  {
-    "id": "1a067aa76a4e84ae7b0bbab7b1bb7",
-    "name": "Spelldrake Talisman +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/spelldrake_talisman_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "Talisman depicting a blue ancient dragon.Boosts magic damage negation. The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.And so it is that the shape of the dragon has become symbolic of all manner of protections.",
-    "effect": "Reduces Magic Damage taken by 22%"
-  },
-  {
-    "id": "1a067aa76a4415d22f8448ed1b498",
-    "name": "Flamedrake Talisman +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/flamedrake_talisman_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "Talisman depicting a red ancient dragon.Boosts fire damage negation. The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.And so it is that the shape of the dragon has become symbolic of all manner of protections.",
-    "effect": "Reduces Fire Damage taken by 22%"
-  },
-  {
-    "id": "1a067aa76a4f133a4c1260e6c66c1",
-    "name": "Boltdrake Talisman +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/boltdrake_talisman_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "Talisman depicting a yellow ancient dragon.Boosts lightning damage negation. The ancient dragons, who ruled before the prehistoric era of the Erdtree, would protect their lord as a wall of living rock.And so it is that the shape of the dragon has become symbolic of all manner of protections.",
-    "effect": "Reduces Lightning Damage taken by 22%"
-  },
-  {
-    "id": "1a067aa76a493cf448cc1288d4f46",
+    "id": "1a067c8c035281d857dbb9a7c0dd0",
     "name": "Golden Braid",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_braid_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A braid of golden hair, cut loose. Queen Marika's offering to the Grandmother. Boosts holy damage negation by the utmost. What was her prayer? Her wish, her confession? There is no one left to answer, and Marika never returned home again.",
     "effect": "Boosts holy damage negation by 22%"
   },
   {
-    "id": "1a067aa76a43b0ed34f549647966a",
-    "name": "Pearldrake Talisman +3 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pearldrake_talisman_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "Talisman depicting a pearlescent ancient dragon.Boosts non-physical damage negation. The ancient dragons who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.And so it is that the shape of the dragon has become symbolic of all manner of protections.",
-    "effect": "Reduces Elemental Damage taken by 11%"
-  },
-  {
-    "id": "1a067aa76a4514b368aad959a4fe7",
-    "name": "Crimson Seed Talisman +1 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson_seed_talisman_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "A crimson-colored talisman patterned after an Erdtree seed.Boosts HP restoration from the Flask of Crimson Tears. The Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist.",
-    "effect": "Boosts HP restoration from the Flask of Crimson Tears by 30%"
-  },
-  {
-    "id": "1a067aa76a4ae2ab88b2b35536332",
-    "name": "Cerulean Seed Talisman +1 Variant",
-    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/cerulean_seed_talisman_talisman_elden_ring_wiki_guide_200px.png",
-    "description": "A cerulean-colored talisman patterned after an Erdtree seed.Boosts FP restoration from the Flask of Cerulean Tears. The Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist.",
-    "effect": "Boosts FP restoration from Flask of Cerulean Tears by 30%"
-  },
-  {
-    "id": "1a067aa76a4eec2021814eda7d09f",
+    "id": "1a067c8c035d74d9cff3e9b0c4986",
     "name": "Blessed Blue Dew Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blessed_blue_dew_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Talisman depicting the blessed boon that is a droplet of the blue, luminescent sap of the Erdtree. Gradually restores FP. It was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith.",
     "effect": "Slowly restores FP"
   },
   {
-    "id": "1a067aa76a49c130002c987f736d6",
+    "id": "1a067c8c035b11518a97f91a4d3c4",
     "name": "Fine Crucible Feather Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/fine_crucible_feather_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman fashioned from thin feathers that embody the aspects of various creatures. Said to have grown on the human body long ago. Improves backsteps but increases damage taken at all times. Hornsent view the Crucible as sacred for the refinement wrought through its evolutionary gifts. Most prominently, their tangled horns.",
     "effect": "Improves backsteps but increases damage taken"
   },
   {
-    "id": "1a067aa76a427c1822f7306f4720d",
+    "id": "1a067c8c035ef4874dafc94ddf5aa",
     "name": "Outer God Heirloom",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/outer_god_heirloom_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman engraved with the lore of an outer god. Raises arcane. The clan, who lost everything in the great fires, peered upon the corpse of their ancestor, normally an act of sanctity, and saw in its shadow a twisted deity. The clan had suffered such torment that the horrible thing was taken as an object of worship.",
     "effect": "Raises arcane"
   },
   {
-    "id": "1a067aa76a4ceeb1ed01d3aa9ec56",
+    "id": "1a067c8c0359e1eb881b86fed1c10",
     "name": "Shattered Stone Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/shattered_stone_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Shattered linchpin stone. Raises potency of kicking and stomping skills. Linchpin stones are spiritual anchors said to hold the ground in place and quell the fury of earthquakes—when this one shattered, the surrounding town fell into the broken earth. One account claimed that the moon itself had come tumbling down.",
     "effect": "Raises potency of kicking and stomping skills"
   },
   {
-    "id": "1a067aa76a4d422a215e0a7b99052",
+    "id": "1a067c8c035c1f1ca7e5b97f63c21",
     "name": "Two-Handed Sword Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/two-handed_sword_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting a warrior two-handing a sword. Enhances attacks with two-handed weapons. The horned warriors were fitting figureheads for the military might of the tower they kept watch over, their deft attacks slashing through any and all foes.",
     "effect": "Enhances attacks with two-handed weapons"
   },
   {
-    "id": "1a067aa76a4e22636e20707e6961b",
+    "id": "1a067c8c0355f9b5190abedb80721",
     "name": "Crusade Insignia",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/crusade_insignia_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting a raised spear on a backdrop of flames, in remembrance of the lives lost in the sacred crusade led by Messmer. Raises attack power after defeating an enemy. The warriors who fought in the crusade set aside both honor and mercy to wantonly impale and scorch those deemed impure. Those who felt invigorated by each cry of death were the same men who were certain of the sanctity of the campaign.",
     "effect": "Raises attack power by 15% for 20 seconds after defeating an enemy"
   },
   {
-    "id": "1a067aa76a471ab64130318ace2cf",
+    "id": "1a067c8c0352097ad8f1de086abd5",
     "name": "Aged One's Exultation",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/aged_ones_exultation_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting the exultation of the aging untouchable, whose head resembles a sprig of ripe grapes. Raises attack power when madness is triggered in the vicinity. \"Gift your madness to our Lord. Bless our brethren with grapes. Take care that they fully ripen.\"",
     "effect": "Madness in the vicinity increases attack power"
   },
   {
-    "id": "1a067aa76a41872b9a099637829ba",
+    "id": "1a067c8c035866e6a7469b02bd56e",
     "name": "Arrow's Soaring Sting Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/arrows_soaring_sting_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman composed of fletched and iron arrows. Increases the effective range of bows and raises attack power of arrows and bolts.",
     "effect": "Increases the effective range of bows and raises attack power of arrows and bolts"
   },
   {
-    "id": "1a067aa76a43031940d2786a0336d",
+    "id": "1a067c8c0352a931aca07bcc3ba3a",
     "name": "Pearl Shield Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/pearl_shield_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Talisman depicting a knight bearing a pearlescent greatshield. Boosts all non-physical damage negation while guarding. The nature and the potential of impurity surpassed the understanding of the knights, and so they were forced to prepare for all threats known or unknown.",
     "effect": "Reduces Elemental Damage taken by 20% while guarding"
   },
   {
-    "id": "1a067aa76a437dd4461bccd54b70b",
+    "id": "1a067c8c035b68be039b4bdda13d3",
     "name": "Dried Bouquet",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/dried_bouquet_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A quaint bouquet of dried flowers, offered to a small grave. Raises attack power when a spirit you have summoned dies. The sorrow that flows from the untimely demise of a loved one is a tenderness shared by all, regardless of birthplace.",
     "effect": "Raises attack power by 20% for 30 seconds when summoned spirit dies"
   },
   {
-    "id": "1a067aa76a406abe5cce2cedc9e1c",
+    "id": "1a067c8c0350a031902450767b2ae",
     "name": "Smithing Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/smithing_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting an ancient smithing hammer. Inscribed with a smithscript. Enhances weapon-throwing attacks. In ancient times, smithing was a divine act, and blacksmiths interpreted the script they perceived in the wrinkles of molten steel to imbue weapons with souls.",
     "effect": "Enhances weapon-throwing attacks by 10%"
   },
   {
-    "id": "1a067aa76a419d2bce3f35635a1a6",
+    "id": "1a067c8c03583785a10a4d064d09f",
     "name": "Ailment Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ailment_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting a soul taken by sickness. When certain ailments are triggered, this talisman grants resistance to the same ailment. When the weak were infected with the dreaded fly sickness, they perished well before the metamorphosis could take hold. Oddly, those who cared for the infected and made certain they were given a proper burial were never afflicted themselves.",
     "effect": "Raises resistance to the last ailment suffered"
   },
   {
-    "id": "1a067aa76a4b7d757413391fade0f",
+    "id": "1a067c8c035f40915e3dc297e6bde",
     "name": "Retaliatory Crossed-Tree",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/retaliatory_crossed-tree_1_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Handicraft depicting a golden crossed-tree. One of the items conferred to the Needle Knights. Enhances attacks executed after rolling or backstepping. Long ago, the Needle Knights were in service of Miquella, but now they are no more. Save for one.",
     "effect": "Enhances attacks executed after rolling or backstepping by 17%"
   },
   {
-    "id": "1a067aa76a4345656ee0b604e1959",
+    "id": "1a067c8c035a84084a817984ba14d",
     "name": "Lacerating Crossed-Tree",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/lacerating_crossed-tree_1_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Handicraft depicting a golden crossed-tree. One of the items conferred to the Needle Knights. Enhances dash attacks. Long ago, the Needle Knights were in service of Miquella, but now they are no more. Save for one.",
     "effect": "Enhances dash attacks"
   },
   {
-    "id": "1a067aa76a4a7216909079fa76920",
+    "id": "1a067c8c0352b5b3545c8c052662f",
     "name": "Sharpshot Talisman",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/sharpshot_talisman_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting an archer wielding a longbow. Boosts attack power of precision-aimed shots. The Albinauric archers were in a class of their own, and their deadly long-range specialists struck fear into the hearts of men.",
     "effect": "Boosts attack power of precision-aimed shots by 12%"
   },
   {
-    "id": "1a067aa76a4e71d17ea4e1d0cf4b9",
+    "id": "1a067c8c035d5b96c55f09d0e6044",
     "name": "St. Trina's Smile",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/st._trinas_smile_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting a smiling St. Trina, a vision conjured deep within a certain man's heart. Raises attack power when sleep is triggered in the vicinity. \"Only I am allowed to know. Of your velvety sleep. Its sweetly gentle embrace. So please, smile—for me, and only me.\"",
     "effect": "Sleep in the vicinity increases attack power"
   },
   {
-    "id": "1a067aa76a44b216f3fa4af506851",
+    "id": "1a067c8c035decad2adf03bc22834",
     "name": "Talisman of the Dread",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/talisman_of_the_dread_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Talisman depicting the dread dragon of the jagged peak, whose roars cause the peak's molten fury to boil and churn. Raises potency of magma. Bayle was the foul dragon's name—a terrible harbinger of destruction whose challenge to the ancient Dragonlord ended in grievous mutual injury.",
     "effect": "Raises potency of magma"
   },
   {
-    "id": "1a067aa76a4aeb1a8e935ce9d2b59",
+    "id": "1a067c8c03526506d8cbf7ebbbff1",
     "name": "Enraged Divine Beast",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/enraged_divine_beast_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A charm depicting the crazed, cavorting dance of the divine beast conducted at the tower festival. Raises potency of storms. Divine beasts are messengers of the heavens, and their rage mirrors the tumult of the skies, of which storms are the pinnacle.",
     "effect": "Raises potency of storms by 10%"
   },
   {
-    "id": "1a067aa76a464167b496eb272a989",
+    "id": "1a067c8c035c749b39bc2d440e7c2",
     "name": "Beloved Stardust",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/beloved_stardust_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting a wizened hand gently gripping a glintstone. Shortens casting speed for sorcery and incantations by the utmost, but increases damage taken. Count Ymir was known for his recitations. \"One need only envision the romance of the stars above with adoration for stardust in one's heart to become a great sorcerer. Do so, and you will know love.\"",
     "effect": "Shortens casting speed for sorcery and incantations by the utmost, but increases damage taken"
   },
   {
-    "id": "1a067aa76a43f70791abc8fa68e12",
+    "id": "1a067c8c03561a844f9f7e59461df",
     "name": "Talisman of Lord's Bestowal",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/talisman_of_lords_bestowal_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A talisman depicting Godfrey, first Elden lord, receiving the precious sap. Increases poise after using a flask of tears. The Lord accepted the sap stoically, without any sign of wavering. No wonder Lord of the Erdtree casts a long shadow over the lands.",
     "effect": "Increases poise after using a flask of tears"
   },
   {
-    "id": "1a067aa76a4c65a25a207f3949195",
+    "id": "1a067c8c0357db7ad37b90fe86b3d",
     "name": "Verdigris Discus",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/verdigris_discus_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A discus made of verdigris, the corroded metal known for its heft. Raises defense with higher equipment load. Great weight makes for great strength. The strength to protect others.",
     "effect": "Raises defense with higher equipment load"
   },
   {
-    "id": "1a067aa76a49af3cc5472c22489ae",
+    "id": "1a067c8c035ec880995acc53aa5af",
     "name": "Rellana's Cameo",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/rellanas_cameo_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "Talisman featuring a gallant portrait of Rellana, the Twin Moon Knight. Enhances attacks executed after maintaining the same stance for a certain length of time. Engraved as a reminder of the unparalleled devotion of those who left their homelands to serve Rellana. \"By your leave, we will accompany you wherever your lunar vessel takes you.\"",
     "effect": "Enhances attacks executed after maintaining the same stance for a while"
   },
   {
-    "id": "1a067aa76a48f585b0e49c496d011",
+    "id": "1a067c8c0358b7eb0c207a0f0ebd4",
     "name": "Blade of Mercy",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/blade_of_mercy_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A thin, blood-stained dagger. No longer fit for use. Raises attack power after each critical hit. Hornsent employed this to honorably end the suffering of a compatriot. After claiming numerous lives, the dagger is now broken, but has acquired a spectral aura.",
     "effect": "Raises attack power by 20% for 20 seconds after each critical hit"
   },
   {
-    "id": "1a067aa76a48e9e1a0dceb9cfc4ae",
+    "id": "1a067c8c0357529e458047b7295ed",
     "name": "Talisman of All Crucibles",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/talisman_of_all_crucibles_talisman_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
     "description": "A giant mass of intermingling Crucible attributes. Reduces damage taken from critical hits and head shots and improves the effectiveness of rolling and backstepping, but also increases damage taken at all times. Rumored to have sprouted upon giants and is known as the \"mother of Crucibles\" in ancient tower lore.",
